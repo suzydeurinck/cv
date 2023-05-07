@@ -20,9 +20,11 @@ work, I strive to contribute to a more equitable and sustainable future for all.
 ## Experience
 <div style="background-color: #FFFFFF; padding: 10px; border-radius: 10px;">
   
-### Company Name
-*Job Title* | Start Date - End Date
-- Description of your responsibilities and accomplishments.
+### Deurinck Equine Behaviour & Welfare
+*Horse Welfare Consultant | Owner* | 2014 - 2023
+- Designed and taught three engaging online courses to 400+ students, covering horse
+emotions, cognition, and positive reinforcement training. Earned an exceptional average
+rating of 8.7/10 for the final course.
 
 </div>
 
