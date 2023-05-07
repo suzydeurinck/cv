@@ -29,12 +29,7 @@ rating of 8.7/10 for the final course.
 </div>
 
 <div style="background-color: #FFFFFF; padding: 10px; border-radius: 10px;">
-  
-### Company Name
-*Job Title* | Start Date - End Date
-- Description of your responsibilities and accomplishments.
-
-</div>
+ 
 
 ## Education
 <div style="background-color: #FFFFFF; padding: 10px; border-radius: 10px;">
