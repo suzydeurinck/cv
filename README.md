@@ -29,14 +29,14 @@ Coached horse enthusiasts to develop leadership-free relationships with their ho
 providing demonstrations on national and international shows. Frequently sought out for
 interviews and podcasts.
   
-  -Expertise in using low-key stress handling techniques to help horses that display extreme
+- Expertise in using low-key stress handling techniques to help horses that display extreme
 fear or aggression, achieving lasting results for both human and horse.
 
 - Designed and taught three engaging online courses to 400+ students, covering horse
 emotions, cognition, and positive reinforcement training. Earned an exceptional average
 rating of 8.7/10 for the final course.
   
-  - Mentored and trained more than 100 horse enthusiasts annually through online coaching sessions, resulting in improved horse-handling skills and techniques.
+- Mentored and trained more than 100 horse enthusiasts annually through online coaching sessions, resulting in improved horse-handling skills and techniques.
 
 </div>
 
