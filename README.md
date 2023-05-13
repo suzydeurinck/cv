@@ -73,7 +73,7 @@ Degree | Graduation Date
 <div style="background-color: #FFFFFF; padding: 10px; border-radius: 10px;">
 
 - Email: your-email@example.com
-- LinkedIn: linkedin.com/in/your-profile-url/
+- LinkedIn: [linkedin.com/in/your-profile-url/](https://www.linkedin.com/in/suzydeurinck/)
 
 </div>
 
