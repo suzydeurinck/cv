@@ -1,4 +1,4 @@
-# cv
+# Resume
 Suzy Deurinck - Resume
 <div style="background-color: #FCE4EC; padding: 30px; border-radius: 10px;">
 
@@ -46,26 +46,29 @@ rating of 8.7/10 for the final course.
 ## Education
 <div style="background-color: #FFFFFF; padding: 10px; border-radius: 10px;">
 
-### University Name
-Degree | Graduation Date
+### Techionista Academy
+Microsoft Azure Certified Data & AI | 2023
+
+### Wageningen University
+Master Animal Science | 2014
 
 </div>
 
 ## Skills
 <div style="background-color: #FFFFFF; padding: 10px; border-radius: 10px;">
 
-- Skill 1
-- Skill 2
-- Skill 3
+- Proactive Planning and Situational Design
+- Innovative Problem Solving
+- Public Speaking
 
 </div>
 
 ## Interests
 <div style="background-color: #FFFFFF; padding: 10px; border-radius: 10px;">
 
-- Interest 1
-- Interest 2
-- Interest 3
+- Data Analysis
+- Gender Equality
+- Feminism
 
 </div>
 
