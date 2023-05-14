@@ -1,6 +1,6 @@
 # Resume
 Suzy Deurinck - Resume
-<div style="background-color: #FCE4EC; padding: 30px; border-radius: 10px;">
+<div style="background-color: #d87c9b; padding: 30px; border-radius: 10px;">
 
 # Suzy Deurinck MSc. Animal Science
 > Aspiring Data Engineer
