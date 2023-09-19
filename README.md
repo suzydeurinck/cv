@@ -3,14 +3,14 @@ Suzy Deurinck - Resume
 <div style="background-color: #ee0b57; padding: 30px; border-radius: 10px;">
 
 # Suzy Deurinck MSc. Animal Science
-> Aspiring Data Engineer
+> Data Engineer
 
 ## Summary
 Drawing upon nearly 10 years of experience as a horse welfare consultant and successful
 business owner, I developed my observational skills and ability to identify and interpret subtle
 behavioral cues. As a data engineer, I bring this same attention to detail and a holistic
 perspective to my work, enabling me to spot connections and maintain a big-picture view of
-complex datasets. At Techionista Academy, I learned about Azure, SQL, and Power BI.
+complex datasets. At Techionista Academy, I learned about Azure, SQL, Python and Power BI.
  
 As someone with a deep-seated passion for helping people, animals, and the planet, I am
 committed to using technology as a means of driving positive change. One of my core beliefs
