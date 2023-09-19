@@ -3,7 +3,7 @@ Suzy Deurinck - Resume
 <div style="background-color: #ee0b57; padding: 30px; border-radius: 10px;">
 
 # Suzy Deurinck MSc. Animal Science
-> Data Engineer
+> Data Engineer - Data Analyst
 
 ## Summary
 Drawing upon nearly 10 years of experience as a horse welfare consultant and successful
